@@ -8,6 +8,8 @@ MAGMA routines for determining feasible characters of groups in exceptional alge
   
 -  2.M, 3.M, ... - Defines pre-calculated eigenvalues for elements of these orders.
 
+- ModsByInduction.M - Defines ModsByInduction, a routine while allows computation of all low-dimensional irreducible modules for a given group. This routine will finish (quickly) in some situations where MAGMA's in-built routines will fail (because they attempt to compute _all_ irreducible modules, including some whose dimension is too large for us to care about here).
+
 ### Usage:
 - run MAGMA
 - [if not pre-computed] load "EltTraces.M" and run EFOs_to_file(n) for each order n of an element in the finite group of interest.
@@ -18,3 +20,5 @@ MAGMA routines for determining feasible characters of groups in exceptional alge
 
 Some groups have elements of very large order, for which generating or storing the relevant element orders may be prohibitive (in terms of time or space). It is therefore possible to set an optional parameter LIMITING_ORDER in FeasChar, which will cause elements of larger orders to be ignored in the calculations. This comes with the risk of finding more "feasible" characters which will not actually correspond to an embedding of the group G.
 - Example usage: FeasChar(G,"E8",2 : LIMITING_ORDER := 25);
+
+### Modules for groups
