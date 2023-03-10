@@ -1,4 +1,4 @@
-FeasChar := procedure(G,LIE_TYPE,CHAR_K : debug := false, MODULES := [], ADJOINT_MODULES := [], MINIMAL_MODULES := [], LIMITING_ORDER := 34, ELEMENT_ORDERS := []);
+FeasChar := procedure(G,LIE_TYPE,CHAR_K : debug := false, MODULES := [], ADJOINT_MODULES := [], MINIMAL_MODULES := [], LIMITING_ORDER := 17, ELEMENT_ORDERS := []);
 
 ASSIGNED_LETTERS := [<"G2","G2_ELTS",7,14>,<"F4","F4_ELTS",26,52>,<"E6","E6_ELTS",27,78>,<"E7","E7_ELTS",56,133>,<"E8","E8_ELTS",0,248>];
 
