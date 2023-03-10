@@ -6,7 +6,7 @@ This code is being released to allow verification of the tables found in [_On no
 ### Files included:
 - FeasChar.M - Defines FeasChar(G,LIE_TYPE,p) which outputs a table of feasible characters for the finite group G on the adjoint module for an exceptional group of type LIE_TYPE and also on a minimal non-trivial module when LIE_TYPE is not E8
     
-- EltTraces.M - Defines EFOs_to_file(n) which writes a file named "n" containing the eigenvalues of elements of order n in groups of exceptional type.
+- EltTraces.M - Defines EFOs_to_file(n) which writes a file named "n.M" containing the eigenvalues of elements of order n in groups of exceptional type.
   
 -  2.M, 3.M, ..., 17.M - Defines pre-calculated eigenvalues for elements of these orders.
 
