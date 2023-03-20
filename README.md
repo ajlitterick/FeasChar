@@ -1,10 +1,10 @@
 # FeasChar
 MAGMA routines for determining feasible characters of groups in exceptional algebraic groups.
 
-This code is being released to allow verification of the tables found in [_On non-generic finite subgroups of exceptional algebraic groups_](https://doi.org/10.1090/memo/1207) [(ArXiv)](https://arxiv.org/abs/1511.03356). This follows an error found in Table 6.298 there, where the feasible characters should each have a 29-dimensional factor rather than one of the 28-dimensional factors. This error occurred during shortening of the tables (for space purposes); the present algorithm (which was used for almost all cases in the _Memoir_) returns the correct table.
+This code is being released to allow verification of the tables found in [_On non-generic finite subgroups of exceptional algebraic groups_](https://doi.org/10.1090/memo/1207) [(ArXiv version)](https://arxiv.org/abs/1511.03356). This follows an error found in Table 6.298 there, where the feasible characters should each have a 29-dimensional constituent instead of one 28-dimensional constituent. This error occurred during shortening of the tables for space purposes; the present algorithm, a version of which was used for almost all cases in the _Memoir_, returns the correct table.
 
 ### Files included:
-- FeasChar.M - Defines FeasChar(G,LIE_TYPE,p) which outputs a table of feasible characters for the finite group G on the adjoint module for an exceptional group of type LIE_TYPE and also on a minimal non-trivial module when LIE_TYPE is not E8
+- FeasChar.M - Defines FeasChar(G,LIE_TYPE,p) which outputs a table of feasible characters for the finite group G on the adjoint module for an exceptional group of type LIE_TYPE and also on a minimal non-trivial module when LIE_TYPE is not E8.
     
 - EltTraces.M - Defines EFOs_to_file(n) which writes a file named "n.M" containing the eigenvalues of elements of order n in groups of exceptional type.
   
@@ -14,9 +14,9 @@ This code is being released to allow verification of the tables found in [_On no
 
 ### Usage:
 - run MAGMA
-- [if not pre-computed] load "EltTraces.M" and run EFOs_to_file(n) for each order n of an element in the finite group of interest.
+- [if not pre-computed] load "EltTraces.M" and run EFOs_to_file(n) for each order n of an element in the finite group of interest
 - load "n.M" for each relevent element order n
-- Run FeasChar(G,LIE_TYPE,p) where LIE_TYPE is one of "G2", "F4", "E6", "E7", "E8" and p is 0 or prime.
+- Run FeasChar(G,LIE_TYPE,p) where LIE_TYPE is one of "G2", "F4", "E6", "E7", "E8" and p is 0 or prime
 
 ### Customisation
 
