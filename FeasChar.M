@@ -144,15 +144,15 @@ end function;
 if debug then printf "Beginning main loop.\n"; end if;
 
 printf "\\begin{tabular}{r|*{%o}{c}", #DIMS_AD;
-if not (LIE_TYPE eq "E_8") then printf "|*{%o}{c}", #DIMS_MIN; end if;
+if not (LIE_TYPE eq "E8") then printf "|*{%o}{c}", #DIMS_MIN; end if;
 printf "}\n";
 
 printf "& \\multicolumn{%o}{c}{$V_{%o}$}", #DIMS_AD, DIM_AD;
-if not (LIE_TYPE eq "E_8") then printf "& \\multicolumn{%o}{|c}{$V_{%o}$}", #DIMS_MIN, DIM_MIN; end if;
+if not (LIE_TYPE eq "E8") then printf "& \\multicolumn{%o}{|c}{$V_{%o}$}", #DIMS_MIN, DIM_MIN; end if;
 printf " \\\\ \\hline\n\t";
 
 for i in DIMS_AD do printf "&%2o ", i; end for;
-if not (LIE_TYPE eq "E_8") then printf " "; for i in DIMS_MIN do printf "&%2o ", i; end for; end if;
+if not (LIE_TYPE eq "E8") then printf " "; for i in DIMS_MIN do printf "&%2o ", i; end for; end if;
 printf "\\\\ \\hline\n";
 print "%";
 
