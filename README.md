@@ -21,4 +21,19 @@ This code is being released to allow verification of the tables found in [_On no
 ### Customisation
 
 Some groups have elements of very large order, for which generating or storing the relevant element orders may be prohibitive (in terms of time or space). It is therefore possible to set an optional parameter LIMITING_ORDER in FeasChar, which will cause elements of larger orders to be ignored in the calculations. This comes with the risk of finding more "feasible" characters which will not actually correspond to an embedding of the group G.
-- Example usage: FeasChar(G,"E8",2 : LIMITING_ORDER := 25);
+
+Similarly, to avoid calculating all irreducible modules for a group (because, for instance, ModsByInduction has been used to find those of dimension at most 248), setting the optional variable MODULES tells FeasChar to only consider characters coming from these particular modules.
+
+### Example usage:
+
+    > G := Alt(17);
+    > FeasChar(G,"E8",2 : LIMITING_ORDER := 17, MODULES := ModsByInduction(G,2 : DimLim := 248) );
+    
+    *** WARNING: Elements of order(s) [ 21, 33, 35, 39, 45, 55, 63, 105 ] not used.
+    \begin{tabular}{r|*{5}{c}|*{0}{c}}
+    & \multicolumn{5}{c}{$V_{248}$}& \multicolumn{0}{|c}{$V_{0}$} \\ \hline
+            & 1 &16 &118 &128 &128  \\ \hline
+    %
+     1)     & 2 & 0 & 1 & 0 & 1 \\
+     2)     & 2 & 0 & 1 & 1 & 0  \\ \hline
+    \end{tabular}
