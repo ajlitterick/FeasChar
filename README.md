@@ -30,9 +30,9 @@ Similarly, to avoid calculating all irreducible modules for a group (because, fo
     > FeasChar(G,"E8",2 : LIMITING_ORDER := 17, MODULES := ModsByInduction(G,2 : DimLim := 248) );
     
     *** WARNING: Elements of order(s) [ 21, 33, 35, 39, 45, 55, 63, 105 ] not used.
-    \begin{tabular}{r|*{5}{c}|*{0}{c}}
-    & \multicolumn{5}{c}{$V_{248}$}& \multicolumn{0}{|c}{$V_{0}$} \\ \hline
-            & 1 &16 &118 &128 &128  \\ \hline
+    \begin{tabular}{r|*{5}{c}}
+    & \multicolumn{5}{c}{$V_{248}$} \\ \hline
+            & 1 &16 &118 &128 &128 \\ \hline
     %
      1)     & 2 & 0 & 1 & 0 & 1 \\
      2)     & 2 & 0 & 1 & 1 & 0  \\ \hline
