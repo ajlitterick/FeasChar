@@ -1,0 +1,2114 @@
+[
+ {
+  "number": "6.1",
+  "caption": "Alt$_{10} < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 45
+ },
+ {
+  "number": "6.2",
+  "caption": "Alt$_{9} < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 56
+ },
+ {
+  "number": "6.3",
+  "caption": "Alt$_{7} < F_4$, $p = 5$",
+  "type": "F4",
+  "line": 68
+ },
+ {
+  "number": "6.4",
+  "caption": "Alt$_{7} < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 78
+ },
+ {
+  "number": "6.5",
+  "caption": "Alt$_{6} < F_4$, $p = 0$ or $p \\nmid |H|$",
+  "type": "F4",
+  "line": 92
+ },
+ {
+  "number": "6.6",
+  "caption": "Alt$_{6} < F_4$, $p = 5$",
+  "type": "F4",
+  "line": 108
+ },
+ {
+  "number": "6.7",
+  "caption": "Alt$_{5} < F_4$, $p = 0$ or $p \\nmid |H|$",
+  "type": "F4",
+  "line": 122
+ },
+ {
+  "number": "6.8",
+  "caption": "Alt$_{5} < F_4$, $p = 3$",
+  "type": "F4",
+  "line": 143
+ },
+ {
+  "number": "6.9",
+  "caption": "$M_{11} < F_4$, $p = 11$",
+  "type": "F4",
+  "line": 161
+ },
+ {
+  "number": "6.10",
+  "caption": "$J_{1} < F_4$, $p = 11$",
+  "type": "F4",
+  "line": 171
+ },
+ {
+  "number": "6.11",
+  "caption": "$J_{2} < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 181
+ },
+ {
+  "number": "6.12",
+  "caption": "$L_2(7) < F_4$, $p = 0$ or $p \\nmid |H|$",
+  "type": "F4",
+  "line": 196
+ },
+ {
+  "number": "6.13",
+  "caption": "$L_2(7) < F_4$, $p = 3$",
+  "type": "F4",
+  "line": 212
+ },
+ {
+  "number": "6.14",
+  "caption": "$L_2(8) < F_4$, $p = 0$ or $p \\nmid |H|$",
+  "type": "F4",
+  "line": 226
+ },
+ {
+  "number": "6.15",
+  "caption": "$L_2(8) < F_4$, $p = 7$",
+  "type": "F4",
+  "line": 241
+ },
+ {
+  "number": "6.16",
+  "caption": "$L_2(8) < F_4$, $p = 3$",
+  "type": "F4",
+  "line": 254
+ },
+ {
+  "number": "6.17",
+  "caption": "$L_2(13) < F_4$, $p = 0$ or $p \\nmid |H|$",
+  "type": "F4",
+  "line": 266
+ },
+ {
+  "number": "6.18",
+  "caption": "$L_2(13) < F_4$, $p = 7$",
+  "type": "F4",
+  "line": 279
+ },
+ {
+  "number": "6.19",
+  "caption": "$L_2(13) < F_4$, $p = 3$",
+  "type": "F4",
+  "line": 291
+ },
+ {
+  "number": "6.20",
+  "caption": "$L_2(13) < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 303
+ },
+ {
+  "number": "6.21",
+  "caption": "$L_2(17) < F_4$, $p = 0$ or $p \\nmid |H|$",
+  "type": "F4",
+  "line": 316
+ },
+ {
+  "number": "6.22",
+  "caption": "$L_2(17) < F_4$, $p = 3$",
+  "type": "F4",
+  "line": 328
+ },
+ {
+  "number": "6.23",
+  "caption": "$L_2(17) < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 339
+ },
+ {
+  "number": "6.24",
+  "caption": "$L_2(25) < F_4$, $p \\neq 2,3,5$",
+  "type": "F4",
+  "line": 351
+ },
+ {
+  "number": "6.25",
+  "caption": "$L_2(25) < F_4$, $p = 3$",
+  "type": "F4",
+  "line": 363
+ },
+ {
+  "number": "6.26",
+  "caption": "$L_2(25) < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 373
+ },
+ {
+  "number": "6.27",
+  "caption": "$L_2(27) < F_4$, $p \\neq 2,3,7$",
+  "type": "F4",
+  "line": 383
+ },
+ {
+  "number": "6.28",
+  "caption": "$L_2(27) < F_4$, $p = 7$",
+  "type": "F4",
+  "line": 395
+ },
+ {
+  "number": "6.29",
+  "caption": "$L_2(27) < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 405
+ },
+ {
+  "number": "6.30",
+  "caption": "$L_3(3) < F_4$, $p \\neq 2, 3$",
+  "type": "F4",
+  "line": 420
+ },
+ {
+  "number": "6.31",
+  "caption": "$L_3(3) < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 431
+ },
+ {
+  "number": "6.32",
+  "caption": "$L_4(3) < F_4$, $p = 2$",
+  "type": "F4",
+  "line": 441
+ },
+ {
+  "number": "6.33",
+  "caption": "$U_3(3) < F_4$, $p = 0$ or $p \\nmid |H|$",
+  "type": "F4",
+  "line": 452
+ },
+ {
+  "number": "6.34",
+  "caption": "$U_3(3) < F_4$, $p = 7$",
+  "type": "F4",
+  "line": 463
+ },
+ {
+  "number": "6.35",
+  "caption": "$^{3}D_4(2) < F_4$, $p \\neq 2, 3$. Irreducible on $V_{52}$ and $V_{26}$. \\possprim",
+  "type": "F4",
+  "line": 474
+ },
+ {
+  "number": "6.36",
+  "caption": "$^{3}D_4(2) < F_4$, $p = 3$",
+  "type": "F4",
+  "line": 485
+ },
+ {
+  "number": "6.37",
+  "caption": "Alt$_{12} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 499
+ },
+ {
+  "number": "6.38",
+  "caption": "Alt$_{11} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 509
+ },
+ {
+  "number": "6.39",
+  "caption": "Alt$_{10} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 519
+ },
+ {
+  "number": "6.40",
+  "caption": "Alt$_{9} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 530
+ },
+ {
+  "number": "6.41",
+  "caption": "Alt$_{7} < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 542
+ },
+ {
+  "number": "6.42",
+  "caption": "$3\\cdot$Alt$_{7} < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 554
+ },
+ {
+  "number": "6.43",
+  "caption": "Alt$_{7} < E_6$, $p = 7$",
+  "type": "E6",
+  "line": 565
+ },
+ {
+  "number": "6.44",
+  "caption": "$3\\cdot$Alt$_{7} < E_6$, $p = 7$",
+  "type": "E6",
+  "line": 576
+ },
+ {
+  "number": "6.45",
+  "caption": "Alt$_{7} < E_6$, $p = 5$",
+  "type": "E6",
+  "line": 587
+ },
+ {
+  "number": "6.46",
+  "caption": "$3\\cdot$Alt$_{7} < E_6$, $p = 5$",
+  "type": "E6",
+  "line": 599
+ },
+ {
+  "number": "6.47",
+  "caption": "Alt$_{7} < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 612
+ },
+ {
+  "number": "6.48",
+  "caption": "Alt$_{7} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 622
+ },
+ {
+  "number": "6.49",
+  "caption": "$3\\cdot$Alt$_{7} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 636
+ },
+ {
+  "number": "6.50",
+  "caption": "Alt$_{6} < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 647
+ },
+ {
+  "number": "6.51",
+  "caption": "$3\\cdot$Alt$_{6} < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 667
+ },
+ {
+  "number": "6.52",
+  "caption": "Alt$_{6} < E_6$, $p = 5$",
+  "type": "E6",
+  "line": 686
+ },
+ {
+  "number": "6.53",
+  "caption": "$3\\cdot$Alt$_{6} < E_6$, $p = 5$",
+  "type": "E6",
+  "line": 701
+ },
+ {
+  "number": "6.54",
+  "caption": "Alt$_{5} < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 715
+ },
+ {
+  "number": "6.55",
+  "caption": "Alt$_{5} < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 738
+ },
+ {
+  "number": "6.56",
+  "caption": "$M_{11} < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 757
+ },
+ {
+  "number": "6.57",
+  "caption": "$M_{11} < E_6$, $p = 11$",
+  "type": "E6",
+  "line": 769
+ },
+ {
+  "number": "6.58",
+  "caption": "$M_{11} < E_6$, $p = 5$",
+  "type": "E6",
+  "line": 780
+ },
+ {
+  "number": "6.59",
+  "caption": "$M_{11} < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 794
+ },
+ {
+  "number": "6.60",
+  "caption": "$M_{11} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 806
+ },
+ {
+  "number": "6.61",
+  "caption": "$M_{12} < E_6$, $p = 5$",
+  "type": "E6",
+  "line": 817
+ },
+ {
+  "number": "6.62",
+  "caption": "$M_{12} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 828
+ },
+ {
+  "number": "6.63",
+  "caption": "$3\\cdot M_{22} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 838
+ },
+ {
+  "number": "6.64",
+  "caption": "$J_{1} < E_6$, $p = 11$",
+  "type": "E6",
+  "line": 850
+ },
+ {
+  "number": "6.65",
+  "caption": "$J_{2} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 861
+ },
+ {
+  "number": "6.66",
+  "caption": "$3 \\cdot J_{3} < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 874
+ },
+ {
+  "number": "6.67",
+  "caption": "$3 \\cdot Fi_{22} < E_6$, $p = 2$. Irreducible on $V_{78}$ and $V_{27}$. \\possprim",
+  "type": "E6",
+  "line": 886
+ },
+ {
+  "number": "6.68",
+  "caption": "$L_2(7) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 899
+ },
+ {
+  "number": "6.69",
+  "caption": "$L_2(7) < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 919
+ },
+ {
+  "number": "6.70",
+  "caption": "$L_2(8) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 935
+ },
+ {
+  "number": "6.71",
+  "caption": "$L_2(8) < E_6$, $p = 7$",
+  "type": "E6",
+  "line": 951
+ },
+ {
+  "number": "6.72",
+  "caption": "$L_2(8) < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 964
+ },
+ {
+  "number": "6.73",
+  "caption": "$L_2(11) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 977
+ },
+ {
+  "number": "6.74",
+  "caption": "$L_2(11) < E_6$, $p = 5$",
+  "type": "E6",
+  "line": 990
+ },
+ {
+  "number": "6.75",
+  "caption": "$L_2(11) < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 1001
+ },
+ {
+  "number": "6.76",
+  "caption": "$L_2(11) < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 1013
+ },
+ {
+  "number": "6.77",
+  "caption": "$L_2(13) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 1027
+ },
+ {
+  "number": "6.78",
+  "caption": "$L_2(13) < E_6$, $p = 7$",
+  "type": "E6",
+  "line": 1042
+ },
+ {
+  "number": "6.79",
+  "caption": "$L_2(13) < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 1055
+ },
+ {
+  "number": "6.80",
+  "caption": "$L_2(13) < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 1068
+ },
+ {
+  "number": "6.81",
+  "caption": "$L_2(17) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 1085
+ },
+ {
+  "number": "6.82",
+  "caption": "$L_2(17) < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 1098
+ },
+ {
+  "number": "6.83",
+  "caption": "$L_2(17) < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 1110
+ },
+ {
+  "number": "6.84",
+  "caption": "$L_2(19) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 1122
+ },
+ {
+  "number": "6.85",
+  "caption": "$L_2(19) < E_6$, $p = 5$",
+  "type": "E6",
+  "line": 1133
+ },
+ {
+  "number": "6.86",
+  "caption": "$L_2(19) < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 1143
+ },
+ {
+  "number": "6.87",
+  "caption": "$L_2(19) < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 1154
+ },
+ {
+  "number": "6.88",
+  "caption": "$L_2(25) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 1165
+ },
+ {
+  "number": "6.89",
+  "caption": "$L_2(25) < E_6$, $p = 13$",
+  "type": "E6",
+  "line": 1177
+ },
+ {
+  "number": "6.90",
+  "caption": "$L_2(25) < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 1190
+ },
+ {
+  "number": "6.91",
+  "caption": "$L_2(25) < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 1201
+ },
+ {
+  "number": "6.92",
+  "caption": "$L_2(27) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 1212
+ },
+ {
+  "number": "6.93",
+  "caption": "$L_2(27) < E_6$, $p = 13$",
+  "type": "E6",
+  "line": 1223
+ },
+ {
+  "number": "6.94",
+  "caption": "$L_2(27) < E_6$, $p = 7$",
+  "type": "E6",
+  "line": 1234
+ },
+ {
+  "number": "6.95",
+  "caption": "$L_2(27) < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 1244
+ },
+ {
+  "number": "6.96",
+  "caption": "$L_3(3) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 1258
+ },
+ {
+  "number": "6.97",
+  "caption": "$L_3(3) < E_6$, $p = 13$",
+  "type": "E6",
+  "line": 1271
+ },
+ {
+  "number": "6.98",
+  "caption": "$L_3(3) < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 1284
+ },
+ {
+  "number": "6.99",
+  "caption": "$L_4(3) < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 1295
+ },
+ {
+  "number": "6.100",
+  "caption": "$U_3(3) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 1306
+ },
+ {
+  "number": "6.101",
+  "caption": "$U_3(3) < E_6$, $p = 7$",
+  "type": "E6",
+  "line": 1319
+ },
+ {
+  "number": "6.102",
+  "caption": "$U_4(2) < E_6$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E6",
+  "line": 1332
+ },
+ {
+  "number": "6.103",
+  "caption": "$U_4(2) < E_6$, $p = 5$",
+  "type": "E6",
+  "line": 1343
+ },
+ {
+  "number": "6.104",
+  "caption": "$3 \\cdot U_4(3) < E_6$, $p = 2$",
+  "type": "E6",
+  "line": 1354
+ },
+ {
+  "number": "6.105",
+  "caption": "(one-line entry)",
+  "type": "E6",
+  "line": 1365
+ },
+ {
+  "number": "6.106",
+  "caption": "(one-line entry)",
+  "type": "E6",
+  "line": 1371
+ },
+ {
+  "number": "6.107",
+  "caption": "$^{3}D_4(2) < E_6$, $p \\neq 2,3$",
+  "type": "E6",
+  "line": 1378
+ },
+ {
+  "number": "6.108",
+  "caption": "$^{3}D_4(2) < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 1390
+ },
+ {
+  "number": "6.109",
+  "caption": "(one-line entry)",
+  "type": "E6",
+  "line": 1399
+ },
+ {
+  "number": "6.110",
+  "caption": "$^{2}F_4(2)' < E_6$, $p = 3$",
+  "type": "E6",
+  "line": 1408
+ },
+ {
+  "number": "6.111",
+  "caption": "Alt$_{13} < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 1424
+ },
+ {
+  "number": "6.112",
+  "caption": "Alt$_{12} < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 1435
+ },
+ {
+  "number": "6.113",
+  "caption": "Alt$_{11} < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 1445
+ },
+ {
+  "number": "6.114",
+  "caption": "Alt$_{10} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1455
+ },
+ {
+  "number": "6.115",
+  "caption": "Alt$_{10} < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 1465
+ },
+ {
+  "number": "6.116",
+  "caption": "Alt$_{9} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 1476
+ },
+ {
+  "number": "6.117",
+  "caption": "Alt$_{9} < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 1486
+ },
+ {
+  "number": "6.118",
+  "caption": "Alt$_{9} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1496
+ },
+ {
+  "number": "6.119",
+  "caption": "Alt$_{9} < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 1506
+ },
+ {
+  "number": "6.120",
+  "caption": "Alt$_{9} < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 1516
+ },
+ {
+  "number": "6.121",
+  "caption": "Alt$_{8} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 1527
+ },
+ {
+  "number": "6.122",
+  "caption": "Alt$_{8} < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 1537
+ },
+ {
+  "number": "6.123",
+  "caption": "Alt$_{8} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1547
+ },
+ {
+  "number": "6.124",
+  "caption": "Alt$_{8} < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 1559
+ },
+ {
+  "number": "6.125",
+  "caption": "Alt$_{7} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 1569
+ },
+ {
+  "number": "6.126",
+  "caption": "Alt$_{7} < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 1581
+ },
+ {
+  "number": "6.127",
+  "caption": "Alt$_{7} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1592
+ },
+ {
+  "number": "6.128",
+  "caption": "$2\\cdot$Alt$_{7} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1609
+ },
+ {
+  "number": "6.129",
+  "caption": "Alt$_{7} < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 1620
+ },
+ {
+  "number": "6.130",
+  "caption": "$2\\cdot$Alt$_{7} < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 1631
+ },
+ {
+  "number": "6.131",
+  "caption": "Alt$_{7} < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 1642
+ },
+ {
+  "number": "6.132",
+  "caption": "Alt$_{6} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 1658
+ },
+ {
+  "number": "6.133",
+  "caption": "$2\\cdot$Alt$_{6} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 1693
+ },
+ {
+  "number": "6.134",
+  "caption": "Alt$_{6} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1714
+ },
+ {
+  "number": "6.135",
+  "caption": "$2\\cdot$Alt$_{6} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1738
+ },
+ {
+  "number": "6.136",
+  "caption": "Alt$_{5} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 1752
+ },
+ {
+  "number": "6.137",
+  "caption": "$2\\cdot$Alt$_{5} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 1785
+ },
+ {
+  "number": "6.138",
+  "caption": "Alt$_{5} < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 1824
+ },
+ {
+  "number": "6.139",
+  "caption": "$2\\cdot$Alt$_{5} < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 1845
+ },
+ {
+  "number": "6.140",
+  "caption": "$M_{11} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 1870
+ },
+ {
+  "number": "6.141",
+  "caption": "$M_{11} < E_7$, $p = 11$",
+  "type": "E7",
+  "line": 1882
+ },
+ {
+  "number": "6.142",
+  "caption": "$M_{11} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1894
+ },
+ {
+  "number": "6.143",
+  "caption": "$M_{11} < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 1909
+ },
+ {
+  "number": "6.144",
+  "caption": "$M_{11} < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 1921
+ },
+ {
+  "number": "6.145",
+  "caption": "$2\\cdot M_{12} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 1932
+ },
+ {
+  "number": "6.146",
+  "caption": "$2\\cdot M_{12} < E_7$, $p = 11$",
+  "type": "E7",
+  "line": 1942
+ },
+ {
+  "number": "6.147",
+  "caption": "$M_{12} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1952
+ },
+ {
+  "number": "6.148",
+  "caption": "$2\\cdot M_{12} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1963
+ },
+ {
+  "number": "6.149",
+  "caption": "$2\\cdot M_{12} < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 1975
+ },
+ {
+  "number": "6.150",
+  "caption": "$M_{12} < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 1985
+ },
+ {
+  "number": "6.151",
+  "caption": "$2\\cdot M_{22} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 1995
+ },
+ {
+  "number": "6.152",
+  "caption": "$J_{1} < E_7$, $p = 11$",
+  "type": "E7",
+  "line": 2005
+ },
+ {
+  "number": "6.153",
+  "caption": "$2 \\cdot J_{2} < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2017
+ },
+ {
+  "number": "6.154",
+  "caption": "$2 \\cdot J_{2} < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 2028
+ },
+ {
+  "number": "6.155",
+  "caption": "$2 \\cdot J_{2} < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2039
+ },
+ {
+  "number": "6.156",
+  "caption": "$2 \\cdot J_{2} < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2050
+ },
+ {
+  "number": "6.157",
+  "caption": "$J_{2} < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2061
+ },
+ {
+  "number": "6.158",
+  "caption": "$2 \\cdot Ru < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2076
+ },
+ {
+  "number": "6.159",
+  "caption": "$2 \\cdot HS < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2086
+ },
+ {
+  "number": "6.160",
+  "caption": "$L_2(7) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2099
+ },
+ {
+  "number": "6.161",
+  "caption": "$SL_2(7) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2125
+ },
+ {
+  "number": "6.162",
+  "caption": "$L_2(7) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2138
+ },
+ {
+  "number": "6.163",
+  "caption": "$SL_2(7) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2157
+ },
+ {
+  "number": "6.164",
+  "caption": "$L_2(8) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2170
+ },
+ {
+  "number": "6.165",
+  "caption": "$L_2(8) < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 2192
+ },
+ {
+  "number": "6.166",
+  "caption": "$L_2(8) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2209
+ },
+ {
+  "number": "6.167",
+  "caption": "$L_2(11) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2225
+ },
+ {
+  "number": "6.168",
+  "caption": "$SL_2(11) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2240
+ },
+ {
+  "number": "6.169",
+  "caption": "$L_2(11) < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2254
+ },
+ {
+  "number": "6.170",
+  "caption": "$SL_2(11) < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2266
+ },
+ {
+  "number": "6.171",
+  "caption": "$L_2(11) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2277
+ },
+ {
+  "number": "6.172",
+  "caption": "$SL_2(11) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2289
+ },
+ {
+  "number": "6.173",
+  "caption": "$L_2(11) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2303
+ },
+ {
+  "number": "6.174",
+  "caption": "$L_2(13) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2320
+ },
+ {
+  "number": "6.175",
+  "caption": "$SL_2(13) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2340
+ },
+ {
+  "number": "6.176",
+  "caption": "$L_2(13) < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 2359
+ },
+ {
+  "number": "6.177",
+  "caption": "$SL_2(13) < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 2375
+ },
+ {
+  "number": "6.178",
+  "caption": "$L_2(13) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2390
+ },
+ {
+  "number": "6.179",
+  "caption": "$SL_2(13) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2405
+ },
+ {
+  "number": "6.180",
+  "caption": "$L_2(13) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2419
+ },
+ {
+  "number": "6.181",
+  "caption": "$L_2(17) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2441
+ },
+ {
+  "number": "6.182",
+  "caption": "$L_2(17) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2455
+ },
+ {
+  "number": "6.183",
+  "caption": "$L_2(17) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2468
+ },
+ {
+  "number": "6.184",
+  "caption": "$L_2(19) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2480
+ },
+ {
+  "number": "6.185",
+  "caption": "$SL_2(19) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2491
+ },
+ {
+  "number": "6.186",
+  "caption": "$L_2(19) < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2503
+ },
+ {
+  "number": "6.187",
+  "caption": "$SL_2(19) < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2513
+ },
+ {
+  "number": "6.188",
+  "caption": "$L_2(19) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2524
+ },
+ {
+  "number": "6.189",
+  "caption": "$SL_2(19) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2535
+ },
+ {
+  "number": "6.190",
+  "caption": "$L_2(19) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2546
+ },
+ {
+  "number": "6.191",
+  "caption": "$L_2(25) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2559
+ },
+ {
+  "number": "6.192",
+  "caption": "$L_2(25) < E_7$, $p = 13$",
+  "type": "E7",
+  "line": 2571
+ },
+ {
+  "number": "6.193",
+  "caption": "$L_2(25) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2583
+ },
+ {
+  "number": "6.194",
+  "caption": "$L_2(25) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2594
+ },
+ {
+  "number": "6.195",
+  "caption": "$L_2(27) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2605
+ },
+ {
+  "number": "6.196",
+  "caption": "$SL_2(27) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2617
+ },
+ {
+  "number": "6.197",
+  "caption": "$L_2(27) < E_7$, $p = 13$",
+  "type": "E7",
+  "line": 2629
+ },
+ {
+  "number": "6.198",
+  "caption": "$SL_2(27) < E_7$, $p = 13$",
+  "type": "E7",
+  "line": 2640
+ },
+ {
+  "number": "6.199",
+  "caption": "$L_2(27) < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 2650
+ },
+ {
+  "number": "6.200",
+  "caption": "$SL_2(27) < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 2660
+ },
+ {
+  "number": "6.201",
+  "caption": "$L_2(27) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2672
+ },
+ {
+  "number": "6.202",
+  "caption": "$SL_2(29) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2685
+ },
+ {
+  "number": "6.203",
+  "caption": "$SL_2(29) < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 2696
+ },
+ {
+  "number": "6.204",
+  "caption": "$SL_2(29) < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2707
+ },
+ {
+  "number": "6.205",
+  "caption": "$SL_2(29) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2718
+ },
+ {
+  "number": "6.206",
+  "caption": "$L_2(29) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2729
+ },
+ {
+  "number": "6.207",
+  "caption": "$SL_2(37) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2740
+ },
+ {
+  "number": "6.208",
+  "caption": "$SL_2(37) < E_7$, $p = 19$",
+  "type": "E7",
+  "line": 2751
+ },
+ {
+  "number": "6.209",
+  "caption": "$SL_2(37) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2762
+ },
+ {
+  "number": "6.210",
+  "caption": "$L_2(37) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2774
+ },
+ {
+  "number": "6.211",
+  "caption": "$L_3(3) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2792
+ },
+ {
+  "number": "6.212",
+  "caption": "$L_3(3) < E_7$, $p = 13$",
+  "type": "E7",
+  "line": 2808
+ },
+ {
+  "number": "6.213",
+  "caption": "$L_3(3) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2822
+ },
+ {
+  "number": "6.214",
+  "caption": "$2 \\cdot L_3(4) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2835
+ },
+ {
+  "number": "6.215",
+  "caption": "$2 \\cdot L_3(4) < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 2848
+ },
+ {
+  "number": "6.216",
+  "caption": "$2 \\cdot L_3(4) < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2859
+ },
+ {
+  "number": "6.217",
+  "caption": "$2 \\cdot L_3(4) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 2869
+ },
+ {
+  "number": "6.218",
+  "caption": "$L_4(3) < E_7$, $p = 2$",
+  "type": "E7",
+  "line": 2882
+ },
+ {
+  "number": "6.219",
+  "caption": "$U_3(3) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2894
+ },
+ {
+  "number": "6.220",
+  "caption": "$U_3(3) < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 2931
+ },
+ {
+  "number": "6.221",
+  "caption": "$U_3(8) < E_7$, $p \\neq 2$",
+  "type": "E7",
+  "line": 2970
+ },
+ {
+  "number": "6.222",
+  "caption": "$U_4(2) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 2984
+ },
+ {
+  "number": "6.223",
+  "caption": "$U_4(2) < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 2996
+ },
+ {
+  "number": "6.224",
+  "caption": "$Sp_6(2) < E_7$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E7",
+  "line": 3008
+ },
+ {
+  "number": "6.225",
+  "caption": "$Sp_6(2) < E_7$, $p = 7$",
+  "type": "E7",
+  "line": 3018
+ },
+ {
+  "number": "6.226",
+  "caption": "$Sp_6(2) < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 3028
+ },
+ {
+  "number": "6.227",
+  "caption": "$Sp_6(2) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 3038
+ },
+ {
+  "number": "6.228",
+  "caption": "$\\Omega_8^{+}(2) < E_7$, $p \\neq 2$",
+  "type": "E7",
+  "line": 3048
+ },
+ {
+  "number": "6.229",
+  "caption": "$^{3}D_4(2) < E_7$, $p \\neq 2, 3$",
+  "type": "E7",
+  "line": 3061
+ },
+ {
+  "number": "6.230",
+  "caption": "$^{3}D_4(2) < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 3073
+ },
+ {
+  "number": "6.231",
+  "caption": "$^{2}F_4(2)' < E_7$, $p \\neq 2, 3, 5$",
+  "type": "E7",
+  "line": 3083
+ },
+ {
+  "number": "6.232",
+  "caption": "$^{2}F_4(2)' < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 3094
+ },
+ {
+  "number": "6.233",
+  "caption": "$^{2}F_4(2)' < E_7$, $p = 3$",
+  "type": "E7",
+  "line": 3104
+ },
+ {
+  "number": "6.234",
+  "caption": "$^{2}B_2(8) < E_7$, $p = 5$",
+  "type": "E7",
+  "line": 3114
+ },
+ {
+  "number": "6.235",
+  "caption": "Alt$_{n} < E_8$, $n \\ge 10$, unique feasible character",
+  "type": "E8",
+  "line": 3128
+ },
+ {
+  "number": "6.236",
+  "caption": "Alt$_{10} < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 3156
+ },
+ {
+  "number": "6.237",
+  "caption": "Alt$_{10} < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 3168
+ },
+ {
+  "number": "6.238",
+  "caption": "Alt$_9 < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3183
+ },
+ {
+  "number": "6.239",
+  "caption": "Alt$_9 < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 3193
+ },
+ {
+  "number": "6.240",
+  "caption": "Alt$_9 < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 3203
+ },
+ {
+  "number": "6.241",
+  "caption": "Alt$_9 < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 3214
+ },
+ {
+  "number": "6.242",
+  "caption": "Alt$_9 < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 3223
+ },
+ {
+  "number": "6.243",
+  "caption": "Alt$_8 < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3244
+ },
+ {
+  "number": "6.244",
+  "caption": "Alt$_8 < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 3256
+ },
+ {
+  "number": "6.245",
+  "caption": "Alt$_8 < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 3268
+ },
+ {
+  "number": "6.246",
+  "caption": "Alt$_8 < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 3281
+ },
+ {
+  "number": "6.247",
+  "caption": "Alt$_7 < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3292
+ },
+ {
+  "number": "6.248",
+  "caption": "Alt$_7 < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 3316
+ },
+ {
+  "number": "6.249",
+  "caption": "Alt$_7 < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 3347
+ },
+ {
+  "number": "6.250",
+  "caption": "Alt$_7 < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 3378
+ },
+ {
+  "number": "6.251",
+  "caption": "Alt$_7 < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 3388
+ },
+ {
+  "number": "6.252",
+  "caption": "Alt$_6 < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3403
+ },
+ {
+  "number": "6.253",
+  "caption": "Alt$_6 < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 3454
+ },
+ {
+  "number": "6.254",
+  "caption": "Alt$_5 < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3476
+ },
+ {
+  "number": "6.255",
+  "caption": "Alt$_5 < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 3506
+ },
+ {
+  "number": "6.256",
+  "caption": "$M_{11} < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3524
+ },
+ {
+  "number": "6.257",
+  "caption": "$M_{11} < E_8$, $p = 11$",
+  "type": "E8",
+  "line": 3535
+ },
+ {
+  "number": "6.258",
+  "caption": "$M_{11} < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 3550
+ },
+ {
+  "number": "6.259",
+  "caption": "$M_{11} < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 3567
+ },
+ {
+  "number": "6.260",
+  "caption": "$M_{11} < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 3583
+ },
+ {
+  "number": "6.261",
+  "caption": "$M_{12} < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 3594
+ },
+ {
+  "number": "6.262",
+  "caption": "$M_{12} < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 3604
+ },
+ {
+  "number": "6.263",
+  "caption": "$J_{1} < E_8$, $p = 11$",
+  "type": "E8",
+  "line": 3613
+ },
+ {
+  "number": "6.264",
+  "caption": "$J_{2} < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 3626
+ },
+ {
+  "number": "6.265",
+  "caption": "$J_{3} < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 3642
+ },
+ {
+  "number": "6.266",
+  "caption": "(one-line entry)",
+  "type": "E8",
+  "line": 3650
+ },
+ {
+  "number": "6.267",
+  "caption": "$L_2(7) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3659
+ },
+ {
+  "number": "6.268",
+  "caption": "$L_2(7) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 3677
+ },
+ {
+  "number": "6.269",
+  "caption": "$L_2(8) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3689
+ },
+ {
+  "number": "6.270",
+  "caption": "$L_2(8) < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 3749
+ },
+ {
+  "number": "6.271",
+  "caption": "$L_2(8) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 3767
+ },
+ {
+  "number": "6.272",
+  "caption": "$L_2(11) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3781
+ },
+ {
+  "number": "6.273",
+  "caption": "$L_2(11) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 3814
+ },
+ {
+  "number": "6.274",
+  "caption": "$L_2(11) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 3826
+ },
+ {
+  "number": "6.275",
+  "caption": "$L_2(11) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 3838
+ },
+ {
+  "number": "6.276",
+  "caption": "$L_2(13) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3853
+ },
+ {
+  "number": "6.277",
+  "caption": "$L_2(13) < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 3888
+ },
+ {
+  "number": "6.278",
+  "caption": "$L_2(13) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 3903
+ },
+ {
+  "number": "6.279",
+  "caption": "$L_2(13) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 3922
+ },
+ {
+  "number": "6.280",
+  "caption": "$L_2(16) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 3952
+ },
+ {
+  "number": "6.281",
+  "caption": "$L_2(16) < E_8$, $p = 17$",
+  "type": "E8",
+  "line": 3971
+ },
+ {
+  "number": "6.282",
+  "caption": "$L_2(16) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 3989
+ },
+ {
+  "number": "6.283",
+  "caption": "$L_2(16) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4009
+ },
+ {
+  "number": "6.284",
+  "caption": "$L_2(17) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4029
+ },
+ {
+  "number": "6.285",
+  "caption": "$L_2(17) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4046
+ },
+ {
+  "number": "6.286",
+  "caption": "$L_2(17) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4060
+ },
+ {
+  "number": "6.287",
+  "caption": "$L_2(19) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4076
+ },
+ {
+  "number": "6.288",
+  "caption": "$L_2(19) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4094
+ },
+ {
+  "number": "6.289",
+  "caption": "$L_2(19) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4108
+ },
+ {
+  "number": "6.290",
+  "caption": "$L_2(19) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4120
+ },
+ {
+  "number": "6.291",
+  "caption": "$L_2(25) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4141
+ },
+ {
+  "number": "6.292",
+  "caption": "$L_2(25) < E_8$, $p = 13$",
+  "type": "E8",
+  "line": 4159
+ },
+ {
+  "number": "6.293",
+  "caption": "$L_2(25) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4171
+ },
+ {
+  "number": "6.294",
+  "caption": "$L_2(25) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4183
+ },
+ {
+  "number": "6.295",
+  "caption": "$L_2(27) < E_8$, $p = 0$, $13$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4201
+ },
+ {
+  "number": "6.296",
+  "caption": "$L_2(27) < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 4212
+ },
+ {
+  "number": "6.297",
+  "caption": "$L_2(27) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4221
+ },
+ {
+  "number": "6.298",
+  "caption": "$L_2(29) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4241
+ },
+ {
+  "number": "6.299",
+  "caption": "$L_2(29) < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 4252
+ },
+ {
+  "number": "6.300",
+  "caption": "$L_2(29) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4263
+ },
+ {
+  "number": "6.301",
+  "caption": "$L_2(29) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4278
+ },
+ {
+  "number": "6.302",
+  "caption": "$L_2(29) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4291
+ },
+ {
+  "number": "6.303",
+  "caption": "$L_2(31) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4306
+ },
+ {
+  "number": "6.304",
+  "caption": "$L_2(31) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4324
+ },
+ {
+  "number": "6.305",
+  "caption": "$L_2(31) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4345
+ },
+ {
+  "number": "6.306",
+  "caption": "$L_2(31) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4365
+ },
+ {
+  "number": "6.307",
+  "caption": "$L_2(32) < E_8$, $p = 0$, $31$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4375
+ },
+ {
+  "number": "6.308",
+  "caption": "$L_2(32) < E_8$, $p = 11$",
+  "type": "E8",
+  "line": 4387
+ },
+ {
+  "number": "6.309",
+  "caption": "$L_2(32) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4398
+ },
+ {
+  "number": "6.310",
+  "caption": "$L_2(37) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4410
+ },
+ {
+  "number": "6.311",
+  "caption": "$L_2(41) < E_8$, $p = 0$, $3$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4427
+ },
+ {
+  "number": "6.312",
+  "caption": "$L_2(41) < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 4438
+ },
+ {
+  "number": "6.313",
+  "caption": "$L_2(41) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4447
+ },
+ {
+  "number": "6.314",
+  "caption": "$L_2(41) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4457
+ },
+ {
+  "number": "6.315",
+  "caption": "$L_2(49) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4474
+ },
+ {
+  "number": "6.316",
+  "caption": "$L_2(49) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4484
+ },
+ {
+  "number": "6.317",
+  "caption": "$L_2(49) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4493
+ },
+ {
+  "number": "6.318",
+  "caption": "$L_2(49) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4503
+ },
+ {
+  "number": "6.319",
+  "caption": "$L_2(61) < E_8$, $p = 0$, $31$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4515
+ },
+ {
+  "number": "6.320",
+  "caption": "$L_2(61) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4525
+ },
+ {
+  "number": "6.321",
+  "caption": "$L_2(61) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4534
+ },
+ {
+  "number": "6.322",
+  "caption": "$L_2(61) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4543
+ },
+ {
+  "number": "6.323",
+  "caption": "$L_3(3) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4558
+ },
+ {
+  "number": "6.324",
+  "caption": "$L_3(3) < E_8$, $p = 13$",
+  "type": "E8",
+  "line": 4582
+ },
+ {
+  "number": "6.325",
+  "caption": "$L_3(3) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4603
+ },
+ {
+  "number": "6.326",
+  "caption": "$L_3(5) < E_8$, $p \\neq 2$, $5$",
+  "type": "E8",
+  "line": 4616
+ },
+ {
+  "number": "6.327",
+  "caption": "$L_3(5) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4627
+ },
+ {
+  "number": "6.328",
+  "caption": "$L_4(3) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4637
+ },
+ {
+  "number": "6.329",
+  "caption": "(one-line entry)",
+  "type": "E8",
+  "line": 4648
+ },
+ {
+  "number": "6.330",
+  "caption": "$U_3(3) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4655
+ },
+ {
+  "number": "6.331",
+  "caption": "$U_3(3) < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 4677
+ },
+ {
+  "number": "6.332",
+  "caption": "$U_3(8) < E_8$, $p \\neq 2, 3$",
+  "type": "E8",
+  "line": 4700
+ },
+ {
+  "number": "6.333",
+  "caption": "$U_3(8) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4713
+ },
+ {
+  "number": "6.334",
+  "caption": "$U_4(2) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4723
+ },
+ {
+  "number": "6.335",
+  "caption": "$U_4(2) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4735
+ },
+ {
+  "number": "6.336",
+  "caption": "$PSp_4(5) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4747
+ },
+ {
+  "number": "6.337",
+  "caption": "$Sp_6(2) < E_8$, $p = 0$, $5$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4757
+ },
+ {
+  "number": "6.338",
+  "caption": "$Sp_6(2) < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 4767
+ },
+ {
+  "number": "6.339",
+  "caption": "$Sp_6(2) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4776
+ },
+ {
+  "number": "6.340",
+  "caption": "$\\Omega_8^{+}(2) < E_8$, $p \\neq 2$",
+  "type": "E8",
+  "line": 4785
+ },
+ {
+  "number": "6.341",
+  "caption": "$G_2(3) < E_8$, $p \\neq 2, 3$",
+  "type": "E8",
+  "line": 4797
+ },
+ {
+  "number": "6.342",
+  "caption": "$G_2(3) < E_8$, $p = 2$",
+  "type": "E8",
+  "line": 4809
+ },
+ {
+  "number": "6.343",
+  "caption": "$^{3}D_4(2) < E_8$, $p \\neq 2, 3$",
+  "type": "E8",
+  "line": 4819
+ },
+ {
+  "number": "6.344",
+  "caption": "$^{3}D_4(2) < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4831
+ },
+ {
+  "number": "6.345",
+  "caption": "$^{2}F_4(2)' < E_8$, $p \\neq 2, 3, 5$",
+  "type": "E8",
+  "line": 4841
+ },
+ {
+  "number": "6.346",
+  "caption": "$^{2}F_4(2)' < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4851
+ },
+ {
+  "number": "6.347",
+  "caption": "$^{2}F_4(2)' < E_8$, $p = 3$",
+  "type": "E8",
+  "line": 4860
+ },
+ {
+  "number": "6.348",
+  "caption": "$^{2}B_2(8) < E_8$, $p = 0$ or $p \\nmid |H|$",
+  "type": "E8",
+  "line": 4870
+ },
+ {
+  "number": "6.349",
+  "caption": "$^{2}B_2(8) < E_8$, $p = 13$",
+  "type": "E8",
+  "line": 4884
+ },
+ {
+  "number": "6.350",
+  "caption": "$^{2}B_2(8) < E_8$, $p = 7$",
+  "type": "E8",
+  "line": 4898
+ },
+ {
+  "number": "6.351",
+  "caption": "$^{2}B_2(8) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4912
+ },
+ {
+  "number": "6.352",
+  "caption": "$^{2}B_2(32) < E_8$, $p = 5$",
+  "type": "E8",
+  "line": 4925
+ }
+]

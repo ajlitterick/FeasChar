@@ -1,5 +1,9 @@
 # Legacy Magma code
 
+*The code in this folder, and `README-original.md`, were written by A. J. Litterick. This
+README was written by an AI system (Claude), under the author's direction, in October 2026.
+See "Who wrote what" in the main README.*
+
 This folder contains the original Magma implementation of FeasChar. It is the code that was used
 to generate the tables of feasible characters in Chapter 6 of
 
