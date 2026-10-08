@@ -1,0 +1,4 @@
+SUMMARY F4: 85 of 85 rows verified; 1.221 s; failures [  ]
+SUMMARY E6: 207 of 207 rows verified; 9.009 s; failures [  ]
+SUMMARY E7: 434 of 434 rows verified; 22.842 s; failures [  ]
+SUMMARY E8: 846 of 846 rows verified; 287.156 s; failures [  ]

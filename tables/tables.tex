@@ -1,0 +1,45 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper,landscape,margin=1.5cm]{geometry}
+\usepackage{amsmath,amssymb,longtable,array}
+\renewcommand{\thetable}{6.\arabic{table}}
+\newcommand{\possprim}{\textbf{P}}
+\newcommand{\nongcr}{\textbf{N}}
+\newcommand{\newrow}{\textbf{new}}
+\newcommand{\Alt}{\mathrm{Alt}}
+\setlength{\LTleft}{0pt}
+\begin{document}
+\title{Feasible characters: updated tables}
+\author{Recomputed with \texttt{feasgen.g} (FeasChar repository)}
+\date{}
+\maketitle
+\noindent Table numbers and captions are those of Chapter 6 of A.~J.~Litterick, \emph{On non-generic
+finite subgroups of exceptional algebraic groups}, Mem.\ Amer.\ Math.\ Soc.\ 1207 (2018).
+
+\noindent The rows of each table are the feasible characters compatible with the adjoint module, all
+end-node Weyl modules and, in characteristic $p$, the irreducible modules $L(\lambda)$ that are
+smaller than the corresponding Weyl modules. All element orders are used, and the class
+assignment must be compatible with every power map. Only $L(G)$ and $V_{\min}$ are shown, as in
+the Memoir.
+
+\noindent Rows are listed up to automorphisms of the character table of $H$ (and, for $F_4$
+with $p = 2$, up to the graph automorphism of $F_4$). Columns are labelled by degree, with letters
+in the order of the irreducible (Brauer) characters in GAP's character table library. These
+labels need not agree with the Memoir's.
+
+\noindent \emph{Provenance.} These tables were computed and typeset by code written by an AI
+system (Claude, Anthropic), October 2026, under the direction of the Memoir's author. They are
+computational results and have not been independently checked by hand. See the README.
+
+\noindent \possprim, \nongcr: as in the Memoir, carried over from the Memoir row with the same
+composition factors. \newrow: not in the Memoir. Differences from the Memoir are listed in
+\texttt{DIFFERENCES.md}.
+\newpage
+\input{F4}
+\newpage
+\input{E6}
+\newpage
+\input{E7}
+\newpage
+\input{E8}
+\newpage
+\end{document}
