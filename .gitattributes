@@ -1,0 +1,8 @@
+# Generated data: exclude from language statistics
+legacy/[0-9]*.M       linguist-generated
+lubeck_data.g         linguist-generated
+tools/memoir_index.g  linguist-generated
+tables/**             linguist-generated
+
+# Magma code (legacy): Linguist has no Magma and mislabels it as MUMPS/MATLAB
+legacy/*.M            linguist-detectable=false
